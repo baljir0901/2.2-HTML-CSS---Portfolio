@@ -14,7 +14,7 @@ HTML болон CSS ашиглан бүтээсэн, бүтээлч загвар
 ## 📷 Зураг (optional)
 
 <!-- Хэрвээ screenshot нэмэх бол энэ хэсгийг идэвхжүүл -->
-<!-- ![Portfolio Screenshot](assets/portfolio-screenshot.png) -->
+[Portfolio Screenshot](image3.png)
 
 ---
 
